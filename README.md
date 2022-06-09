@@ -8,6 +8,8 @@
   <p align="center">
     Hack_the_bias Hackathon was held by Codam coding college on March 5th 2021.
     <br>
+    It's purpose was to parse a set of data to find some potential bias that could affect the wage (or anything else) of a selected dev population.
+    <br>
     This was our team solution to the topic, coded in C.
     <br>
   </p>
@@ -74,11 +76,11 @@ hack_the_bias-Hackathon
 
 **grosendo**
 
-https://github.com/GavrielRosendorn74
+- https://github.com/GavrielRosendorn74
 
 **abonnel**
 
-https://github.com/Anyaa6
+- https://github.com/Anyaa6
 
 **llecoq**
 
